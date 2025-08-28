@@ -81,7 +81,7 @@ header > p {
    max-width: 600px; /* largura máxima */
    padding-left: 10px; /* espaçamento interno à esquerda */
    padding-right: 10px; /* espaçamento interno à direita */
-   margin: auto; /* centraliza o conteúdo */
+   padding-bottom: 50px; /* espaçamento interno inferior */
    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315); /* sombra do texto */
 }
 
